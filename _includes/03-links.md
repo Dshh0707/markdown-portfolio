@@ -1,1 +1,1 @@
-https://www.google.com/search?q=%E6%9C%B1%E5%AE%97%E6%85%B6%E6%89%93%E6%93%8A%E6%A8%82%E6%95%99%E5%AD%B8%E7%B3%BB%E7%B5%B1&rlz=1C1PRFI_enTW889TW889&oq=%E6%9C%B1%E5%AE%97%E6%85%B6&aqs=chrome.1.69i57j35i39j69i59j0l2j69i61l3.3719j0j7&sourceid=chrome&ie=UTF-8
+[text](https://example.com).
